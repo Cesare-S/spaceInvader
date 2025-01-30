@@ -1,7 +1,6 @@
 # Space Invaders Game  
 This is a classic **Space Invaders** game implemented using **HTML**, **CSS**, and **JavaScript**. The project is designed to demonstrate my skills in front-end development, game mechanics, and JavaScript programming.  
 
-![Space Invaders Screenshot](./assets/screenshot.png)  
 
 ## Features  
 - **Classic Gameplay**: Play the well-known Space Invaders game with the traditional mechanics.  
