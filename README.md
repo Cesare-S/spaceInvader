@@ -22,23 +22,32 @@ This is a classic **Space Invaders** game implemented using **HTML**, **CSS**, a
 ## How to Run Locally  
 To run the game on your local machine, follow these steps:  
 1. **Clone this repository**:  
+   ```bash
    git clone https://github.com/CesareCt92/spaceInvader.git
-
+   ``` 
 2. **Navigate to the project directory**:
-  cd space-invaders
+   ```bash
+   cd space-invaders
+   ```
 
-3. **Run a local server (you can use Node.js or Python as mentioned below):**
+4. **Run a local server (you can use Node.js or Python as mentioned below):**
    - **Using Node.js and http-server:**
+     ```bash
      npm install -g http-server  
      http-server
+     ```
 
      Visit http://localhost:8080 in your browser.
 
    - **Using Python (if you have Python installed):**
      - **For Python 3:**
-       python3 -m http.server  
+       ```bash
+       python3 -m http.server
+       ```
      - **For Python 2:**
+       ```bash
        python -m SimpleHTTPServer
+       ```
 
        Visit http://localhost:8000 in your browser.
 
