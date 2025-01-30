@@ -22,7 +22,7 @@ This is a classic **Space Invaders** game implemented using **HTML**, **CSS**, a
 ## How to Run Locally  
 To run the game on your local machine, follow these steps:  
 1. **Clone this repository**:  
-   git clone https://github.com/your-username/space-invaders.git  
+   git clone https://github.com/CesareCt92/spaceInvader.git
 
 2. **Navigate to the project directory**:
   cd space-invaders
